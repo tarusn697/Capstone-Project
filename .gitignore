@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Compiled output
+build/
+dist/
+out/
+*.zip
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build cache
+.cache/
+.npm/
+
+# Testing files
+coverage/
+
+# Ignore lock files
+yarn.lock
+
