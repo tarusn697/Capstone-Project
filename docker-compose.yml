@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: docker-react-c
+    image: reactjs:v1
+    ports:
+      - 80:3000
